@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jordan! <br/><a href="https://github.com/jfoggie">Programmer</a>, <a href="https://www.linkedin.com/in/jordan-foggie-9414701b9/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Jordan! <br/><a href="https://github.com/jfoggie"></a>, <a href="https://www.linkedin.com/in/jordan-foggie-9414701b9/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
